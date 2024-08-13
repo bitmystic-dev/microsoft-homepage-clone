@@ -1,2 +1,2 @@
-# microsoft-homepage-clone
-My attempt on cloning the microsoft homepage(Unfinished)
+# Microsoft Homepage Clone
+My attempt at cloning the Microsoft homepage (Unfinished)
